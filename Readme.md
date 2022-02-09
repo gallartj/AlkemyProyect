@@ -1,3 +1,8 @@
+SOMOS MAS es el proyecto en el que trabajamos durante 5 sprints con un equipo conformado por 5 personas.
+
+
+
+
 # Users in seed data
 
 #### Email: password
